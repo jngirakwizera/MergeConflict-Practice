@@ -1,0 +1,30 @@
+body {
+    background-color: yellow;
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+}
+
+
+
+
+.one {
+    background-color: blue;
+}
+
+.two {
+    background-color: orange;
+}
+
+.three {
+    background-color: green;
+
+}
+
+.four {
+    background-color: red;
+
+}
